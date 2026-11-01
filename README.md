@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Afandi Faisal Hikam!
 
 ### 💫 About Me
-- 🎓 Computer Science / Informatika Student
+- 🎓 Computer Science / informatic engineering Student
 - 💻 Interested in Web Development, Computer Graphics, & Programming
-- 🛠️ Currently working with C++, PHP, and Java
+- 🛠️ **STILL LEARNING**
 
 ---
 
@@ -23,3 +23,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalafandi482-lgtm&theme=radical" alt="GitHub Streak" />
 </p>
+
+### **
+LONG LIVE GOOD THINGS**
