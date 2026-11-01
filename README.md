@@ -17,7 +17,7 @@
 
 ### 🌐 Most Used Languages & Streak
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisalafandi482-lgtm&theme=radical&utc=1" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisalafandi482-lgtm&theme=radical" alt="Repos Per Language" />
 </p>
 
 <p align="center">
