@@ -10,7 +10,7 @@
 ### 📊 GitHub Summary & Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisalafandi482-lgtm&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalafandi482-lgtm&layout=donut&theme=radical&langs_count=6" alt="Top Languages Donut" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faisalafandi482-lgtm&theme=radical" alt="Productive Time" />
 </p>
 
 ---
