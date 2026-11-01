@@ -26,4 +26,4 @@
 
 ---
 
-<h2 align="center"><b>LONG LIVE GOOD THINGS:)</b></h2>
+<h2 align="center"><b>LONG LIVE GOOD THINGS :)</b></h2>
