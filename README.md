@@ -7,10 +7,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Summary & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisalafandi482-lgtm&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalafandi482-lgtm&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisalafandi482-lgtm&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/code-languages?username=faisalafandi482-lgtm&theme=radical" alt="Top Languages" />
 </p>
 
 ---
