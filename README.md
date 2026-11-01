@@ -1,23 +1,21 @@
-👋**SUGENG RAWUH**👋
+# Hi there 👋, I'm Afandi Faisal Hikam!
 
 ### 💫 About Me
-still learning, ngoding tipis tipis, healing tebal tebal
+- 🎓 Computer Science / Informatika Student
+- 💻 Interested in Web Development, Computer Graphics, & Programming
+- 🛠️ Currently working with C++, PHP, and Java
 
 ---
 
 ### 📊 GitHub Summary & Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisalafandi482-lgtm&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faisalafandi482-lgtm&theme=radical" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalafandi482-lgtm&layout=donut&theme=radical&langs_count=6" alt="Top Languages Donut" />
 </p>
 
 ---
 
-### 🌐 Most Used Languages & Streak
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisalafandi482-lgtm&theme=radical" alt="Repos Per Language" />
-</p>
-
+### 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalafandi482-lgtm&theme=radical" alt="GitHub Streak" />
 </p>
