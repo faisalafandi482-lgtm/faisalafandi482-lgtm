@@ -1,9 +1,7 @@
 # Hi there 👋, I'm Afandi Faisal Hikam!
 
 ### 💫 About Me
-- 🎓 Computer Science / Informatika Student
-- 💻 Interested in Web Development, Computer Graphics, & Programming
-- 🛠️ Currently working with C++, PHP, and Java
+still learning, ngoding tipis tipis, healing tebal tebal
 
 ---
 
