@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Afandi Faisal Hikam!
+#👋 SUGENG RAWUH
 
 ### 💫 About Me
 still learning, ngoding tipis tipis, healing tebal tebal
