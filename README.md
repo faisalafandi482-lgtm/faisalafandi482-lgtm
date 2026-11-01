@@ -14,7 +14,7 @@
 ### 📊 GitHub Summary & Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisalafandi482-lgtm&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faisalafandi482-lgtm&theme=radical" alt="Productive Time" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faisalafandi482-lgtm&layout=donut&theme=radical" alt="Top Languages" />
 </p>
 
 ---
