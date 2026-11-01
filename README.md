@@ -24,5 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalafandi482-lgtm&theme=radical" alt="GitHub Streak" />
 </p>
 
-### **
-LONG LIVE GOOD THINGS**
+---
+
+<h2 align="center"><b>LONG LIVE GOOD THINGS:)</b></h2>
